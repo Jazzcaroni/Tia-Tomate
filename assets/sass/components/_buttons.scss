@@ -1,0 +1,15 @@
+
+.formulario__button {
+	text-align: center;
+}
+
+.formulario__button__btn {
+	background-color: $white;
+	color: $taupe-gray;
+	width: $big-button;
+	border-radius: 20px;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+	font-size: $medium;
+	font-weight: $medium;
+}

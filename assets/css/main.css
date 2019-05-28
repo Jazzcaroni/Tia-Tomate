@@ -19,10 +19,11 @@ p {
 .header {
   padding-top: 1rem;
   padding-left: 2rem;
+  padding-bottom: 1rem;
 }
 
 .header__logo {
-  width: 120 px;
+  width: 200px;
 }
 
 .main {
@@ -58,7 +59,53 @@ p {
 }
 
 .nosotros__javiera__img {
-  width: 50%;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  width: 40%;
+  text-align: center;
+}
+
+.nosotros__roberto__img {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  width: 40%;
+  text-align: center;
+}
+
+.nosotros__roberto__title {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: center;
+  font-weight: 18px;
+  font-size: 18px;
+  color: #686963;
+}
+
+.nosotros__javiera__title {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: center;
+  font-weight: 18px;
+  font-size: 18px;
+  color: #686963;
+}
+
+.nosotros__roberto__texto {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: left;
+  font-weight: 18px;
+  font-size: 200;
+  color: #686963;
+}
+
+.nosotros__javiera__texto {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: left;
+  font-weight: 18px;
+  font-size: 200;
+  color: #686963;
 }
 
 .article__organicos {
@@ -140,7 +187,92 @@ p {
 }
 
 .nosotros__javiera__img {
-  width: 50%;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  width: 40%;
+  text-align: center;
+}
+
+.nosotros__roberto__img {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  width: 40%;
+  text-align: center;
+}
+
+.nosotros__roberto__title {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: center;
+  font-weight: 18px;
+  font-size: 18px;
+  color: #686963;
+}
+
+.nosotros__javiera__title {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: center;
+  font-weight: 18px;
+  font-size: 18px;
+  color: #686963;
+}
+
+.nosotros__roberto__texto {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: left;
+  font-weight: 18px;
+  font-size: 200;
+  color: #686963;
+}
+
+.nosotros__javiera__texto {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  text-align: left;
+  font-weight: 18px;
+  font-size: 200;
+  color: #686963;
+}
+
+.formulario {
+  padding: 2rem;
+  background-color: #e56353;
+}
+
+.formulario__title {
+  padding: 2rem;
+  background-color: #e56353;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.pie {
+  padding: 2rem 2rem 2rem 2rem;
+  text-align: center;
+  background-color: #686963;
+}
+
+.pie__img {
+  width: 100px;
+}
+
+.formulario__button {
+  text-align: center;
+}
+
+.formulario__button__btn {
+  background-color: #fff;
+  color: #91918d;
+  width: 200px;
+  border-radius: 20px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 18px;
+  font-weight: 18px;
 }
 
 /*# sourceMappingURL=main.css.map */
