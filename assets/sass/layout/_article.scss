@@ -9,18 +9,21 @@
 .article__organicos__img {
 	width: 80%;
 	text-align: center;
+	padding-left: 5rem;
+	
 
 }
-
-
 
 .article__organicos__title {
 	text-align: center;
+	font-size: $large;
+
 
 }
+
 .article__organicos__texto {
-	padding-left: 3rem;
-	padding-right: 3rem;
+	padding-left: 8rem;
+	padding-right: 8rem;
 	color: $white;
 	font-weight: $extra-light;
 	font-size: $medium;
@@ -29,8 +32,8 @@
 }
 
 .article__organicos__texto2 {
-	padding-left: 3rem;
-	padding-right: 3rem;
+	padding-left: 8rem;
+	padding-right: 8rem;
 	font-weight: $extra-light;
 	font-size: $medium;
 }
@@ -42,34 +45,37 @@
 
 .article__limache__title {
 	text-align: center;
-	padding-left: 3rem;
-	padding-right: 3rem;
+	color: $granite-gray;
+	font-size: $large;
+
 }
 
 
 
 .article__limache__img {
+	padding-left: 5rem;
 	width: 80%;
 	text-align: center;
 
 }
 
 .article__limache__texto {
-	padding-left: 3rem;
-	padding-right: 3rem;
-	color: $white;
+	padding-left: 8rem;
+	padding-right: 8rem;
 	font-weight: $extra-light;
 	font-size: $medium;
 	text-align: left;
+	color: $granite-gray;
 
 }
 
 .article__limache__texto2 {
-	padding-left: 3rem;
-	padding-right: 3rem;
+	padding-left: 8rem;
+	padding-right: 8rem;
 	font-weight: $extra-light;
 	font-size: $medium;
 	text-align: left;
+	color: $granite-gray;
 
 }
 	

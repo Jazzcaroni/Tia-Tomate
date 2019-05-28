@@ -46,7 +46,7 @@ p {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .nosotros__title {
@@ -55,53 +55,50 @@ p {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .nosotros__javiera__img {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 18rem;
   width: 40%;
   text-align: center;
 }
 
 .nosotros__roberto__img {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 18rem;
+  padding-right: 18rem;
+  padding-top: 3rem;
   width: 40%;
   text-align: center;
 }
 
 .nosotros__roberto__title {
-  padding-left: 4rem;
-  padding-right: 4rem;
   text-align: center;
   font-weight: 18px;
-  font-size: 18px;
+  font-size: 50px;
   color: #686963;
 }
 
 .nosotros__javiera__title {
-  padding-left: 4rem;
-  padding-right: 4rem;
   text-align: center;
   font-weight: 18px;
-  font-size: 18px;
+  font-size: 50px;
   color: #686963;
 }
 
 .nosotros__roberto__texto {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
   text-align: left;
   font-weight: 18px;
   font-size: 200;
   color: #686963;
+  padding-bottom: 3rem;
 }
 
 .nosotros__javiera__texto {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
   text-align: left;
   font-weight: 18px;
   font-size: 200;
@@ -110,7 +107,6 @@ p {
 
 .article__organicos {
   padding: 2rem 2rem 2rem 2rem;
-  text-align: center;
   background-color: #A0A0A0;
   color: #fff;
   font-weight: 18px;
@@ -119,39 +115,63 @@ p {
 .article__organicos__img {
   width: 80%;
   text-align: center;
+  padding-left: 5rem;
+}
+
+.article__organicos__title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.article__organicos__texto {
+  padding-left: 8rem;
+  padding-right: 8rem;
+  color: #fff;
+  font-weight: 200;
+  font-size: 18px;
+  text-align: left;
+}
+
+.article__organicos__texto2 {
+  padding-left: 8rem;
+  padding-right: 8rem;
+  font-weight: 200;
+  font-size: 18px;
 }
 
 .article__limache {
   padding: 2rem 2rem 2rem 2rem;
-  text-align: center;
   font-weight: 18px;
 }
 
+.article__limache__title {
+  text-align: center;
+  color: #686963;
+  font-size: 50px;
+}
+
 .article__limache__img {
+  padding-left: 5rem;
   width: 80%;
   text-align: center;
 }
 
-.article__organicos_title {
-  text-align: center;
-}
-
-.article__organicos_texto {
-  color: #fff;
-  text-align: center;
+.article__limache__texto {
+  padding-left: 8rem;
+  padding-right: 8rem;
   font-weight: 200;
   font-size: 18px;
+  text-align: left;
+  color: #686963;
 }
 
-.article__organicos_title2 {
-  text-align: center;
-}
-
-.article__organicos_texto2 {
-  text-align: center;
-  text-align: center;
+.article__limache__texto2 {
+  padding-left: 8rem;
+  padding-right: 8rem;
   font-weight: 200;
   font-size: 18px;
+  text-align: left;
+  color: #686963;
 }
 
 .main {
@@ -174,7 +194,7 @@ p {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .nosotros__title {
@@ -183,53 +203,50 @@ p {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .nosotros__javiera__img {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 18rem;
   width: 40%;
   text-align: center;
 }
 
 .nosotros__roberto__img {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 18rem;
+  padding-right: 18rem;
+  padding-top: 3rem;
   width: 40%;
   text-align: center;
 }
 
 .nosotros__roberto__title {
-  padding-left: 4rem;
-  padding-right: 4rem;
   text-align: center;
   font-weight: 18px;
-  font-size: 18px;
+  font-size: 50px;
   color: #686963;
 }
 
 .nosotros__javiera__title {
-  padding-left: 4rem;
-  padding-right: 4rem;
   text-align: center;
   font-weight: 18px;
-  font-size: 18px;
+  font-size: 50px;
   color: #686963;
 }
 
 .nosotros__roberto__texto {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
   text-align: left;
   font-weight: 18px;
   font-size: 200;
   color: #686963;
+  padding-bottom: 3rem;
 }
 
 .nosotros__javiera__texto {
-  padding-left: 4rem;
-  padding-right: 4rem;
+  padding-left: 12rem;
+  padding-right: 12rem;
   text-align: left;
   font-weight: 18px;
   font-size: 200;
@@ -247,7 +264,7 @@ p {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .pie {

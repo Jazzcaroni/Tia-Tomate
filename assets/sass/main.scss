@@ -1,11 +1,6 @@
 @import
-  'abstracts/variables',
-  'abstracts/functions',
-  'abstracts/mixins',
-  'abstracts/placeholders';
-
-@import
-  'vendors/bootstrap';
+  'abstracts/variables';
+  
 
 @import
   'base/reset',
@@ -20,5 +15,5 @@
   'layout/footer';
 
 @import
-  'components/buttons',
+  'components/buttons';
 
