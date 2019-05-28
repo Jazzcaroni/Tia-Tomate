@@ -1,17 +1,93 @@
-/* Error: Can't find stylesheet to import.
- *    ,
- * 16 |   'layout/section',
- *    |   ^^^^^^^^^^^^^^^^
- *    '
- *   assets/sass/main.scss 16:3  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a    \2577 \a 16 \2502    'layout/section',\a    \2502    ^^^^^^^^^^^^^^^^\a    \2575 \a   assets/sass/main.scss 16:3  root stylesheet";
+body {
+  margin: 0;
 }
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 18px;
+  font-size: 18px;
+}
+
+.header {
+  padding-top: 1rem;
+  padding-left: 2rem;
+}
+
+.header__logo {
+  width: 120 px;
+}
+
+.main {
+  background-color: #e56353;
+}
+
+.main__container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.main__container__title {
+  color: #fff;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+}
+
+.main__container__title2 {
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.article__organicos {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: #A0A0A0;
+  color: #fff;
+}
+
+.article__organicos__img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.article__limache__img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.main {
+  background-color: #e56353;
+}
+
+.main__container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.main__container__title {
+  color: #fff;
+  text-align: center;
+  font-weight: 200;
+  font-size: 50px;
+}
+
+.main__container__title2 {
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+/*# sourceMappingURL=main.css.map */
